@@ -13,7 +13,7 @@ PODS:
   - glog (0.3.5)
   - React (0.57.7):
     - React/Core (= 0.57.7)
-  - react-native-bpk-component-calendar (0.0.17):
+  - react-native-bpk-component-calendar (0.0.1):
     - React
   - react-native-maps (0.21.0):
     - React
@@ -105,7 +105,7 @@ SPEC CHECKSUMS:
   FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
   glog: e8acf0ebbf99759d3ff18c86c292a5898282dcde
   React: 1fe0eb13d90b625d94c3b117c274dcfd2e760e11
-  react-native-bpk-component-calendar: bf4189794d252de0ffb85bbb4e7ae2362284d395
+  react-native-bpk-component-calendar: 7551a1dcd154a0e27a5ca44acb454967de884c53
   react-native-maps: 066c2afcc89e18726377bcc685315f989ca22449
   yoga: b1ce48b6cf950b98deae82838f5173ea7cf89e85
 
